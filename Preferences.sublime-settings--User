@@ -1,0 +1,35 @@
+settings{
+	"auto_complete": true,
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"node_modules/**"
+	],
+	"color_scheme": "Packages/Dayle Rees Color Schemes/sublime/bold.tmTheme",
+	"detect_indentation": true,
+	"font_face": "JetBrains Mono",
+	"font_size": 11,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"remember_full_screen": true,
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "Afterglow-magenta.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"word_wrap": false
+}
